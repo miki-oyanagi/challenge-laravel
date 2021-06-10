@@ -7,7 +7,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ["https://objective-khorana-e7c425.netlify.app"],
+    'allowed_origins' => ['*']],
 
     'allowed_origins_patterns' => [],
 
